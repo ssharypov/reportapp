@@ -1,0 +1,11 @@
+D:\_dev\csharp\solution1\Reports\Reports\bin\Debug\Reports.exe.config
+D:\_dev\csharp\solution1\Reports\Reports\bin\Debug\Reports.exe
+D:\_dev\csharp\solution1\Reports\Reports\bin\Debug\Reports.pdb
+D:\_dev\csharp\solution1\Reports\Reports\obj\Debug\Reports.csproj.AssemblyReference.cache
+D:\_dev\csharp\solution1\Reports\Reports\obj\Debug\Reports.Form1.resources
+D:\_dev\csharp\solution1\Reports\Reports\obj\Debug\Reports.Properties.Resources.resources
+D:\_dev\csharp\solution1\Reports\Reports\obj\Debug\Reports.csproj.GenerateResource.cache
+D:\_dev\csharp\solution1\Reports\Reports\obj\Debug\Reports.csproj.CoreCompileInputs.cache
+D:\_dev\csharp\solution1\Reports\Reports\obj\Debug\Reports.exe
+D:\_dev\csharp\solution1\Reports\Reports\obj\Debug\Reports.pdb
+D:\_dev\csharp\solution1\Reports\Reports\obj\Debug\Reports.Form2.resources
